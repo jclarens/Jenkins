@@ -1,2 +1,2 @@
 # Jenkins
-Just testing and have fun :)
+Just testing
